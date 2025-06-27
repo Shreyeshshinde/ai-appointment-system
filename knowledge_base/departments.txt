@@ -1,0 +1,18 @@
+Cardiology:
+  - Treats heart-related symptoms such as chest pain, palpitations, and shortness of breath.
+  - Common procedures include ECG, echocardiogram, angiography.
+
+Neurology:
+  - Deals with brain and nervous system issues like headaches, seizures, dizziness, stroke.
+
+Dermatology:
+  - Treats skin-related issues such as rashes, acne, eczema, fungal infections.
+
+Orthopedics:
+  - Handles bone, joint, and muscle problems such as fractures, arthritis, back pain.
+
+Pulmonology:
+  - Manages lung and respiratory problems like asthma, cough, wheezing, and shortness of breath.
+
+General Medicine:
+  - First-level diagnosis for fever, fatigue, infections, and general body discomfort.

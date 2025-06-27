@@ -1,0 +1,38 @@
+Q: What should I do if I have chest pain?
+A: Chest pain may be a sign of a heart-related issue. You should consult a cardiologist immediately, especially if the pain is severe or accompanied by shortness of breath.
+
+Q: I have been coughing for more than a week. Which doctor should I see?
+A: Persistent cough may indicate a lung condition. You should see a pulmonologist.
+
+Q: What specialist should I consult for frequent headaches?
+A: Headaches can be neurological. A neurologist can help diagnose the root cause.
+
+Q: I have a skin rash that is not going away. What should I do?
+A: You should consult a dermatologist for diagnosis and treatment of skin rashes.
+
+Q: My joints hurt when I walk. Who do I see?
+A: Joint pain is usually handled by an orthopedic specialist.
+
+Q: What doctor should I see for dizziness and imbalance?
+A: These may be neurological symptoms. Consider visiting a neurologist.
+
+Q: Who should I see for weight gain and hormone problems?
+A: These symptoms could be related to hormonal imbalance. An endocrinologist is the right specialist.
+
+Q: I'm experiencing severe anxiety and trouble sleeping. What do I do?
+A: These are signs of mental health issues. You should consult a psychiatrist.
+
+Q: What doctor should I see for high fever and fatigue?
+A: General physicians or internal medicine doctors can help with fever and general symptoms.
+
+Q: I have persistent nasal congestion and sinus issues. Who can help?
+A: ENT (ear, nose, throat) specialists deal with sinus and nasal conditions.
+
+Q: What specialist handles stomach pain, constipation, and bloating?
+A: These are digestive issues. You should consult a gastroenterologist.
+
+Q: I'm having irregular heartbeat and fatigue. Should I be concerned?
+A: Yes, these can be signs of a heart condition. You should see a cardiologist promptly.
+
+Q: What is the first step if I feel unwell but don’t know the cause?
+A: Start by consulting a general physician. They can refer you to a specialist if needed.
